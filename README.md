@@ -46,11 +46,11 @@
 
 ## About Me
 
-Full Stack Developer with hands-on experience building and shipping web applications across the complete stack. Currently interning as a **Full Stack AI Engineer at TheAISignal** (June 2026 – Present), contributing to a production-grade platform with Next.js 15, TypeScript, and Cloudflare Pages deployment.
+Full Stack Developer with hands-on experience building and shipping web applications across the complete stack. Currently interning as a **Full Stack AI Engineer at TheAISignal** (June 2026 – Present), contributing to a production-grade AI Intelligence platform.
 
 My core foundation is the **MERN stack** — designing REST APIs with Node.js and Express, modelling data with MongoDB, and building responsive component-driven UIs with React. Through internship work I have extended into **Next.js, TypeScript, and PostgreSQL**, and have practical experience integrating LLM APIs to build AI-powered product features.
 
-I care about writing maintainable, well-typed code — clean API contracts, authenticated routes, modular architecture — and I treat every project as a production system from day one.
+I care about writing maintainable, well-typed code — clean API contracts, authenticated routes, modular architecture and I treat every project as a production system from day one.
 
 **Open to** &nbsp;→&nbsp; `Full Stack Engineering` &nbsp;`MERN / Node.js Backend` &nbsp;`Frontend Engineering` &nbsp;`Open Source`
 
