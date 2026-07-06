@@ -96,7 +96,6 @@ I care about writing maintainable, well-typed code — clean API contracts, auth
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
-
 <br/>
 
 ---
