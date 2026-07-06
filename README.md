@@ -97,10 +97,6 @@ I care about writing maintainable, well-typed code — clean API contracts, auth
       <img src="https://skillicons.dev/icons?i=redux&theme=dark" width="40" /><br/>
       <sub>Redux Toolkit</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=socketio&theme=dark" width="40" /><br/>
-      <sub>Socket.io</sub>
-    </td>
   </tr>
 </table>
 
