@@ -61,7 +61,7 @@ I care about writing maintainable, well-typed code — clean API contracts, auth
 
 <div align="center">
 
-**Core — MERN Stack**
+**Core Stack**
 
 <table>
   <tr>
@@ -81,15 +81,6 @@ I care about writing maintainable, well-typed code — clean API contracts, auth
       <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40" /><br/>
       <sub>Node.js</sub>
     </td>
-  </tr>
-</table>
-
-<br/>
-
-**Extended Stack**
-
-<table>
-  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="40" /><br/>
       <sub>Next.js 15</sub>
