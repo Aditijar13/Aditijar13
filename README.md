@@ -58,43 +58,128 @@ I care about writing maintainable, well-typed code — clean API contracts, auth
 
 ---
 ## Tech Stack
- 
-**Core — MERN**
- 
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
+
+<div align="center">
+
+**Core — MERN Stack**
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="40" /><br/>
+      <sub>MongoDB</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=express&theme=dark" width="40" /><br/>
+      <sub>Express.js</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" /><br/>
+      <sub>React.js</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40" /><br/>
+      <sub>Node.js</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 **Extended Stack**
- 
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="40" /><br/>
+      <sub>Next.js 15</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="40" /><br/>
+      <sub>TypeScript</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="40" /><br/>
+      <sub>PostgreSQL</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=redux&theme=dark" width="40" /><br/>
+      <sub>Redux Toolkit</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=socketio&theme=dark" width="40" /><br/>
+      <sub>Socket.io</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 **Languages**
- 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" /><br/>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40" /><br/>
+      <sub>Java</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="40" /><br/>
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" /><br/>
+      <sub>HTML5</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" /><br/>
+      <sub>CSS3</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 **Tools & Deployment**
- 
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" /><br/>
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" /><br/>
+      <sub>GitHub</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="40" /><br/>
+      <sub>VS Code</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="40" /><br/>
+      <sub>Postman</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="40" /><br/>
+      <sub>Vercel</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=render&theme=dark" width="40" /><br/>
+      <sub>Render</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="40" /><br/>
+      <sub>Cloudflare</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <br/>
 
