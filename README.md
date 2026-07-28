@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad,8b5cf6,a78bfa&height=180&section=header&text=Aditi%20Jar&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20AI%20Integration&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ede9fe,c4b5fd,a78bfa&height=180&section=header&text=Aditi%20Jar&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20AI%20Integration&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
