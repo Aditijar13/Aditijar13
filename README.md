@@ -247,13 +247,12 @@ A property listing and review platform with interactive geospatial map integrati
 
 **Full Stack AI Engineer — Intern** &nbsp;·&nbsp; **TheAISignal** &nbsp;·&nbsp; June 2026 – Present &nbsp;·&nbsp; Remote
 
-Engineered features across the full stack of a production AI startup intelligence platform — from data modelling and API contract design to ISR-based page architecture and deployment infrastructure on Cloudflare Pages.
-
-- Architected a typed data layer in TypeScript with schema contracts decoupled from the UI layer, enabling zero-migration backend integration
-- Implemented static generation with incremental revalidation strategies across data-heavy profile pages, reducing client-side fetch overhead
-- Built server component trees with selective hydration boundaries, minimising JavaScript bundle size while preserving interactivity where required
-- Resolved floating-point precision bugs in SVG coordinate systems causing cross-browser rendering inconsistencies in data visualisation components
-- Owned end-to-end deployment pipeline — branch-based preview environments, cache invalidation strategy, and production release on Cloudflare Pages
+- Pre-rendered pages using Next.js 15 SSG + ISR, reducing server load and improving load performance
+- Added dynamic Open Graph metadata and per-page SEO across startup and product profile pages
+- Built 18+ responsive React components — funding charts, patent analytics, ecosystem graphs — for an AI startup intelligence platform
+- Integrated 10+ REST APIs with Promise.all, timeout handling, and fallbacks ensuring zero blank-screen failures
+- Architected a typed data layer decoupling UI from API responses, enabling zero-rewrite live data migration
+- Analysed 5+ competitor platforms (levels.fyi, AmbitionBox, Glassdoor) with 100+ data points to shape product decisions
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js%2015-000?style=flat-square&logo=nextdotjs&logoColor=white" />
