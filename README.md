@@ -287,21 +287,6 @@ A property listing and review platform with interactive geospatial map integrati
 
 <br/>
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditijar13&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" width="47%" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Aditijar13&theme=midnight-purple&hide_border=true" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditijar13&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" width="40%" />
-</p>
-
-<br/>
 
 ---
 
