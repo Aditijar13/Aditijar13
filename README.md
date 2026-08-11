@@ -14,7 +14,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/-Jabalpur%20Engineering%20College-7C3AED?style=flat-square&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/-CGPA%3A%208.45%2F10-8B5CF6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CGPA%3A%208.50%2F10-8B5CF6?style=flat-square&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/-2023%20–%202027-9333EA?style=flat-square&logoColor=white" />
   &nbsp;
