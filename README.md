@@ -269,7 +269,7 @@ A property listing and review platform with interactive geospatial map integrati
 
 | Recognition | Details |
 |:---|:---|
-| **Top 10 — Smart India Hackathon 2024** | Built a Unity-based constitutional awareness game; ranked top 10 in internal rounds nationally |
+| **Top 10 — Smart India Hackathon 2024** | Built a Unity-based constitutional awareness game; ranked top 10 in internal rounds |
 | **3rd Place — Vidyarthi Vigyan Manthan** | National science talent competition organised by Vigyan Prasar |
 | **Top 10% of Class — JEC** | CGPA 8.45 / 10 at Jabalpur Engineering College |
 
