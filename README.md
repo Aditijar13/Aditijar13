@@ -33,10 +33,6 @@
   <a href="https://github.com/Aditijar13" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/AditiJar/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
 </p>
 
 <br/>
@@ -271,7 +267,7 @@ A property listing and review platform with interactive geospatial map integrati
 |:---|:---|
 | **Top 10 — Smart India Hackathon 2024** | Built a Unity-based constitutional awareness game; ranked top 10 in internal rounds |
 | **3rd Place — Vidyarthi Vigyan Manthan** | National science talent competition organised by Vigyan Prasar |
-| **Top 10% of Class — JEC** | CGPA 8.45 / 10 at Jabalpur Engineering College |
+| **Top 10% of Class — JEC** | CGPA 8.5 / 10 at Jabalpur Engineering College |
 
 <br/>
 
