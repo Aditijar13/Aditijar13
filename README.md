@@ -346,10 +346,6 @@ open_to:
   <a href="https://github.com/Aditijar13" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Aditijar13-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/AditiJar/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-AditiJar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
 </p>
 
 <br/>
